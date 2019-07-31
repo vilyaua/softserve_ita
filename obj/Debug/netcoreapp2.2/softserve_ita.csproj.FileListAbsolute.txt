@@ -1,0 +1,11 @@
+/home/vilyaua/softserve/softserve_ita/bin/Debug/netcoreapp2.2/softserve_ita.deps.json
+/home/vilyaua/softserve/softserve_ita/bin/Debug/netcoreapp2.2/softserve_ita.runtimeconfig.json
+/home/vilyaua/softserve/softserve_ita/bin/Debug/netcoreapp2.2/softserve_ita.runtimeconfig.dev.json
+/home/vilyaua/softserve/softserve_ita/bin/Debug/netcoreapp2.2/softserve_ita.dll
+/home/vilyaua/softserve/softserve_ita/bin/Debug/netcoreapp2.2/softserve_ita.pdb
+/home/vilyaua/softserve/softserve_ita/obj/Debug/netcoreapp2.2/softserve_ita.csprojAssemblyReference.cache
+/home/vilyaua/softserve/softserve_ita/obj/Debug/netcoreapp2.2/softserve_ita.csproj.CoreCompileInputs.cache
+/home/vilyaua/softserve/softserve_ita/obj/Debug/netcoreapp2.2/softserve_ita.AssemblyInfoInputs.cache
+/home/vilyaua/softserve/softserve_ita/obj/Debug/netcoreapp2.2/softserve_ita.AssemblyInfo.cs
+/home/vilyaua/softserve/softserve_ita/obj/Debug/netcoreapp2.2/softserve_ita.dll
+/home/vilyaua/softserve/softserve_ita/obj/Debug/netcoreapp2.2/softserve_ita.pdb
